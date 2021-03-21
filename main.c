@@ -12,7 +12,7 @@ char club[50];
 
 int main()
 {
-
+    printf("Hola bienvenido a mi programa!");
     Corredor jugador1;
     printf("Ingrese el nombre del corredor: ");
     scanf("%s", jugador1.nombre);
