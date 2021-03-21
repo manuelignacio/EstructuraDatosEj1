@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595447694 source:d:\program files (x86)\programacion en c++\practica bloque 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
